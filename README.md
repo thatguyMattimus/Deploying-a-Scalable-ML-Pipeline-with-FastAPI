@@ -1,3 +1,5 @@
+https://github.com/thatguyMattimus/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/
+
 # Scalable ML Pipeline utilizing FastAPI
 
 * Demonstration of Machine Learning Model Pipeline
